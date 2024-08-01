@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I am a full-stack engineer and I specialize in React/Next, Redux, Angular, Vue, TypeScript, Node.js, Express.js, JavaScript, Laravel, Wordpress, PHP, Python/Django/Flask, Golang, AI, Java, MongoDB, MySQL, PostgreSQL, and Rest API. My most recent experience comes from freelance/contract jobs on Upwork/Freelancer/Indeed as a senior engineer who steps in to help companies that need urgent development resources. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -51,6 +51,30 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
           }
         ]
       },

@@ -172,7 +172,9 @@ header h1 {
 
 .polaroid img {
 	display: block;
-	max-width: 200px;
+	max-width: 300px;
+	object-fit: cover;
+	object-position: left;
 }
 
 .polaroid span {
