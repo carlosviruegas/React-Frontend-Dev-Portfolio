@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I am a full-stack engineer and I specialize in React/Next, Redux, Angular, Vue, TypeScript, Node.js, Express.js, JavaScript, Laravel, Wordpress, PHP, Python/Django/Flask, Golang, AI, Java, MongoDB, MySQL, PostgreSQL, and Rest API. My most recent experience comes from freelance/contract jobs on Upwork/Freelancer/Indeed as a senior engineer who steps in to help companies that need urgent development resources. Thank you 💜",
+      "description": "👋 I am a senior full-stack engineer and I specialize in React/Next, Redux, Angular, Vue, TypeScript, Node.js, Express.js, JavaScript, Laravel, Wordpress, PHP, Python/Django/Flask, Golang, AI, Java, MongoDB, MySQL, PostgreSQL, and Rest API. My most recent experience comes from freelance/contract jobs on Upwork/Freelancer/Indeed as a senior engineer who steps in to help companies that need urgent development resources. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,12 +11,13 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "GigWrksEnt",
         "startDate": "2020",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/gigwrksent/gigwrksent-1.png",
+          "images/portfolio/gigwrksent/gigwrksent-2.png",
+          "images/portfolio/gigwrksent/gigwrksent-3.png"
         ],
         "url": "",
         "technologies": [
@@ -35,12 +36,13 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "Clublisi",
         "startDate": "2018",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/clublisi/clublisi-1.png",
+          "images/portfolio/clublisi/clublisi-2.png",
+          "images/portfolio/clublisi/clublisi-3.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,12 +57,13 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
+        "title": "Subflow",
         "startDate": "2015",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/subflow/subflow-1.png",
+          "images/portfolio/subflow/subflow-2.png",
+          "images/portfolio/subflow/subflow-3.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -79,12 +82,39 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
+        "title": "EnrollPro",
         "startDate": "2015",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/enrollpro/enrollpro-1.png",
+          "images/portfolio/enrollpro/enrollpro-2.png",
+          "images/portfolio/enrollpro/enrollpro-3.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+      ,
+      {
+        "title": "USAhemp",
+        "startDate": "2015",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/usahemp/usahemp-1.png",
+          "images/portfolio/usahemp/usahemp-2.png",
+          "images/portfolio/usahemp/usahemp-3.png"
         ],
         "url": "https://github.com",
         "technologies": [
