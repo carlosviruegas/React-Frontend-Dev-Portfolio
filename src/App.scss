@@ -124,6 +124,8 @@ header h1 {
 .foto img {
 	display: block;
 	width: 100%;
+	object-fit: cover;
+  object-position: top;
 }
 
 .foto div {
