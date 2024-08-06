@@ -74,6 +74,11 @@
           "level": "100"
         },
         {
+          "name": "Laravel",
+          "class": "devicon-laravel-plain",
+          "level": "100"
+        },
+        {
           "name": "MongoDB",
           "class": "devicon-mongodb-plain",
           "level": "100"
